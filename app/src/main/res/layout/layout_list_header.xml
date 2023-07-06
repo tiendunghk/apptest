@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="70dp"
+    android:orientation="horizontal"
+    android:gravity="center">
+    <TextView
+        android:gravity="center"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="STT"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Chương trình"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Khách hàng"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Địa chỉ"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Mức"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Kế hoạch/thực hiện"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Tiến độ"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="% Hình đạt"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Kết quả"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Xếp hạng"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="TT trả thưởng"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="90dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Loại trả thưởng"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Nội dung trả thưởng"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Mã đơn hàng"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Ngày đơn hàng"/>
+</LinearLayout>

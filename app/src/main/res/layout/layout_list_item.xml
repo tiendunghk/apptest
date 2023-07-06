@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="70dp"
+    android:orientation="horizontal"
+    android:gravity="center">
+    <TextView
+        android:gravity="center"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="1"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="MIEN BAC T01/2023"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="C0000003-Co Quy"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="233, Nghia Phat, Phuong 12, Quan 10, Thanh pho Ho Chi Minh"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="Muc 1"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="[So luong/so tien Nhom san pham va So luong/so tien Nhom san pham] hoan []"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="[So luong/so tien Nhom san pham va So luong/so tien Nhom san pham] hoan []"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="[So luong/so tien Nhom san pham va So luong/so tien Nhom san pham] hoan []"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="Chua dat"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="Chua dat"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="Chua tra thuong"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="90dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="Voucher"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="[So luong tra/tong Ten san pham va So luong tra/tong Ten san pham] hoac []"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="Ma don hang"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/shape_bg"
+        android:text="Ngay don hang"/>
+</LinearLayout>

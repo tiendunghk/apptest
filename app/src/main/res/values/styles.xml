@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MySpinner" parent="Widget.AppCompat.Spinner">
+        <item name="background">@drawable/custom_spinner_bg</item>
+    </style>
+</resources>
